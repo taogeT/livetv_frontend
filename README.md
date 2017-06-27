@@ -1,7 +1,7 @@
 ### 前端介绍
 ***
 
-采用 Vue.js(2.x)+Webpack(1.x) 开发集成SPA
+采用 Vue.js(2.x)+Webpack(2.x) 开发集成SPA
 
 #### 部署
 
